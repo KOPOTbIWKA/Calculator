@@ -16,4 +16,5 @@ public class NumberSystem {
             return false;
         }
     }
+
 }
